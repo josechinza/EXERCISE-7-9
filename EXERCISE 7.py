@@ -4,7 +4,7 @@
 # Programa: ordenamiento.py
 # Fecha: Sat Oct 3 07:51:18 COT 2015
 # Descripcion: este programa ordena una lista por distintos metodos
-#JOSE IGNACIO RAMIREZ CHINZA 164012
+#JOSE IGNACIO RAMIREZ CHINZA 164012- DAVID STEVEN CESPEDES GUERRERO 154047
 import random, time
 
 def aleatorios(n):
