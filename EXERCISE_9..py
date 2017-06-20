@@ -1,6 +1,6 @@
 
 # -*- coding: cp1252 -*-
-#JOSE IGNACIO RAMIREZ CHINZA-164012
+#JOSE IGNACIO RAMIREZ CHINZA-164012-DAVID STEVEN CESPEDES GUERRERO 154047
 class Nodo:
     """ Esta clase representa cada uno de los Nodos de la lista
    """
@@ -86,7 +86,7 @@ class ListaSimple:
             temp=self.raiz
             self.raiz=self.raiz.siguiente
             temp=None
-            print ("Se eliminó el primer nodo")
+            print ("Se eliminÃ³ el primer nodo")
         pass
  
     def imprimir(self):
